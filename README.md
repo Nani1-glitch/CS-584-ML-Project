@@ -45,6 +45,6 @@ The best-performing model, Random Forest, achieved a recall score greater than 0
 ## Installation and Running
 
 ```bash
-git clone https://github.com/your-github-username/patient-readmission-prediction.git
+git clone [https://github.com/your-github-username/patient-readmission-prediction.git](https://github.com/Nani1-glitch/CS-584-ML-Project)
 cd patient-readmission-prediction
 pip install -r requirements.txt
